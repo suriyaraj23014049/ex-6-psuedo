@@ -15,7 +15,8 @@ Step 5: Repeat the random number generation for the specified count.
 Step 6: Print each generated random number. 
 Step 7: End the program. 
 
-# PROGRAM : -  
+# PROGRAM : - 
+```
 #include <stdio.h>
 //Constants for LCG
 #define A 1664525
@@ -42,6 +43,7 @@ int main() {
     }
     return 0;
 }
+```
 # OUTPUT : -
 ![image](https://github.com/user-attachments/assets/f6ad9747-ac7c-4a02-8206-550ec88c28ee)
 
